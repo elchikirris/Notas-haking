@@ -13,76 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "de4a56c1d31e33eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Plantilla.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Plantilla"
-            }
-          },
-          {
-            "id": "462749400d7a03a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "79f13573e54b8fd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-warmed up.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-warmed up"
-            }
-          },
-          {
-            "id": "121b7884f637efb5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- First Grep.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- First Grep"
-            }
-          },
-          {
-            "id": "271185b63f19803c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "01- Obedient Cat.md",
                 "mode": "source",
                 "source": false
@@ -90,51 +20,8 @@
               "icon": "lucide-file",
               "title": "01- Obedient Cat"
             }
-          },
-          {
-            "id": "85fdfe33bba44078",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- whats a net cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- whats a net cat"
-            }
-          },
-          {
-            "id": "4eaceb5087cec00d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- plumbing.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- plumbing"
-            }
-          },
-          {
-            "id": "9ff98b2725f7b61a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01- Glitch cat.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01- Glitch cat"
-            }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,20 +169,31 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "9ff98b2725f7b61a",
+  "active": "a1e9d6d4b1ca8dbe",
   "lastOpenFiles": [
-    "01-nice cat.md",
+    "01-Bases.md",
+    "01-First Find.md",
+    "01.md",
+    "01- Big zip.md",
+    "01- repetitions.md",
+    "01- Obedient Cat.md",
+    "01- Lets Warm Up.md",
     "01- Glitch cat.md",
+    "01- First Grep.md",
+    "01-Magikarp Ground Mission.md",
+    "01-nice cat.md",
+    "01-warmed up.md",
+    "Plantilla.md",
+    "README.md",
     "01- plumbing.md",
     "01- whats a net cat.md",
-    "01- Obedient Cat.md",
-    "01- First Grep.md",
-    "01-warmed up.md",
-    "01-Bases.md",
+    "01-Based.md",
+    "01- strings it.md",
+    "01- wave a flag.md",
+    "01- Static ain't always noise.md",
+    "01- useless.md",
+    "01- Tab, Tab, Attack.md",
     "01-2Warm.md",
-    "Plantilla.md",
-    "01- Lets Warm Up.md",
-    "README.md",
     "Sin nombre 2",
     "Sin nombre 1",
     "Sin nombre",
