@@ -13,15 +13,100 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01- Obedient Cat.md",
+                "file": "01-Bases.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01- Obedient Cat"
+              "title": "01-Bases"
+            }
+          },
+          {
+            "id": "56cd382d323bfeb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- convertme.py.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- convertme.py"
+            }
+          },
+          {
+            "id": "6ea6f9f88b98bab1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-PW Crack 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-PW Crack 1"
+            }
+          },
+          {
+            "id": "b69ffd87984fe93e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-PW Crack 2.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-PW Crack 2"
+            }
+          },
+          {
+            "id": "b36a31dfe6da7669",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01- PW Crack 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01- PW Crack 3"
+            }
+          },
+          {
+            "id": "dc14593637ec5390",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-Serpentine.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Serpentine"
+            }
+          },
+          {
+            "id": "6164eeb71d57d06c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -169,14 +254,27 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a1e9d6d4b1ca8dbe",
+  "active": "dc14593637ec5390",
   "lastOpenFiles": [
+    "01- PW Crack 3.md",
+    "01-Serpentine.md",
+    "01-PW Crack 2.md",
+    "01-PW Crack 1.md",
+    "01-.md",
+    "01- convertme.py.md",
+    "01- fixme2.py.md",
+    "01-fixme1.py.md",
     "01-Bases.md",
+    "01- Codebook.md",
+    "01-runme.py.md",
+    "01- Super SSH.md",
+    "01- strings it.md",
+    "01-Based.md",
+    "01- Obedient Cat.md",
     "01-First Find.md",
     "01.md",
     "01- Big zip.md",
     "01- repetitions.md",
-    "01- Obedient Cat.md",
     "01- Lets Warm Up.md",
     "01- Glitch cat.md",
     "01- First Grep.md",
@@ -184,19 +282,8 @@
     "01-nice cat.md",
     "01-warmed up.md",
     "Plantilla.md",
-    "README.md",
-    "01- plumbing.md",
-    "01- whats a net cat.md",
-    "01-Based.md",
-    "01- strings it.md",
-    "01- wave a flag.md",
-    "01- Static ain't always noise.md",
-    "01- useless.md",
-    "01- Tab, Tab, Attack.md",
-    "01-2Warm.md",
     "Sin nombre 2",
     "Sin nombre 1",
-    "Sin nombre",
-    "Bienvenido.md"
+    "Sin nombre"
   ]
 }
