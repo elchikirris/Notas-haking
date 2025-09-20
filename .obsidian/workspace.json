@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea1/10- ASCII Numbers.md",
+                "file": "Actividad 8/01- Client-side-again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10- ASCII Numbers"
+              "title": "01- Client-side-again"
             }
           }
         ],
@@ -186,8 +186,15 @@
   },
   "active": "dc14593637ec5390",
   "lastOpenFiles": [
-    "Tarea1/09-binhexa.md",
+    "Actividad 8/01_picobrowser.md",
+    "Actividad 8/01- Client-side-again.md",
+    "Actividad 8/01_dont-use-client-side.md",
+    "Actividad 8/01-Logon.md",
+    "Actividad 8/01-where are the robots.md",
+    "Actividad 8/01- Insp3ct0r.md",
     "Tarea1/10- ASCII Numbers.md",
+    "Actividad 8",
+    "Tarea1/09-binhexa.md",
     "Tarea1/08- binary search.md",
     "Tarea1/07- collaborative development.md",
     "Tarea1/06-blame game.md",
@@ -207,13 +214,6 @@
     "01- fixme2.py.md",
     "01-fixme1.py.md",
     "01-Bases.md",
-    "01- Codebook.md",
-    "01-runme.py.md",
-    "01- Super SSH.md",
-    "01- strings it.md",
-    "01-Based.md",
-    "01- Obedient Cat.md",
-    "Sin nombre 2",
-    "Sin nombre"
+    "Sin nombre 2"
   ]
 }
