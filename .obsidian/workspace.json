@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "00817ee829d55018",
+        "id": "0863410349f54b49",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e9d6d4b1ca8dbe",
+            "id": "1fabd6bee297a0a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Actividad 10/03- JaWT Scratchpad.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "03- JaWT Scratchpad"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -169,10 +165,26 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "a1e9d6d4b1ca8dbe",
+  "active": "1695d5b6d6edc9c2",
   "lastOpenFiles": [
-    "Actividad 10/02- More SQLi.md",
+    "Tarea 2/09-Unminify.md",
+    "Tarea 2/10-web decode.md",
+    "Tarea 2/08-SQLiLite.md",
+    "Tarea 2/07-Secrets.md",
+    "Tarea 2/06-Roboto Sans.md",
+    "Tarea 2/05-Power Cookie.md",
+    "Tarea 2/04-Local Authority.md",
+    "Tarea 2/03-IntroToBurp.md",
+    "Tarea 2/02-Inspect HTML.md",
+    "Tarea 2/01- Includes.md",
+    "Actividad 11/04- Most Cookies.md",
+    "Tarea 2",
+    "Actividad 11/03- Trickster.md",
+    "Actividad 11/02-SOAP.md",
+    "Actividad 11/01- MatchTheRegex.md",
     "Actividad 10/03- JaWT Scratchpad.md",
+    "Actividad 11",
+    "Actividad 10/02- More SQLi.md",
     "Actividad 10/01- Irish-Name-Repo 1.md",
     "Sin título.md",
     "01- More SQLi.md",
@@ -185,21 +197,7 @@
     "Actividad 8/01- Client-side-again.md",
     "Actividad 9",
     "Actividad 8/01_picobrowser.md",
-    "Actividad 8/01_dont-use-client-side.md",
-    "Actividad 8/01-Logon.md",
-    "Actividad 8/01-where are the robots.md",
-    "Actividad 8/01- Insp3ct0r.md",
-    "Tarea1/10- ASCII Numbers.md",
     "Actividad 8",
-    "Tarea1/09-binhexa.md",
-    "Tarea1/08- binary search.md",
-    "Tarea1/07- collaborative development.md",
-    "Tarea1/06-blame game.md",
-    "06.md",
-    "Tarea1/05-time machine.md",
-    "Tarea1/03-special.md",
-    "Tarea1/02-chrono.md",
-    "02-.md",
     "Tarea1",
     "Sin nombre 2"
   ]
