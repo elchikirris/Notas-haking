@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 15/Operation Oni.md",
+                "file": "Actividad 16/interencdec.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operation Oni"
+              "title": "interencdec"
             }
           }
         ]
@@ -171,8 +171,16 @@
   },
   "active": "79cac9ebfc4c4e0a",
   "lastOpenFiles": [
-    "Actividad 15/Operation Orchid.md",
+    "Actividad 16/waves over lambda.md",
+    "Actividad 16/interencdec.md",
+    "Actividad 16/Tapping.md",
+    "Actividad 16/la cifra de.md",
+    "Actividad 16/Easy 1.md",
+    "Actividad 16/13.md",
+    "Actividad 16/The numbers.md",
     "Actividad 15/Operation Oni.md",
+    "Actividad 16",
+    "Actividad 15/Operation Orchid.md",
     "Actividad 15/Sleuthkit Apprentice.md",
     "Actividad 15/Sleuthkit Intro.md",
     "Actividad 15/Disk, disk, sleuth!.md",
@@ -192,20 +200,12 @@
     "Examen 1/General Skills parte1/Specialer.md",
     "Examen 1/General Skills parte1/SansAlpha.md",
     "Examen 1/General Skills parte1/Flag_shop.md",
-    "Examen 1/General Skills parte1/dont-you-love-banners.md",
-    "Examen 1/General Skills parte1/Rust fixme 3.md",
-    "Examen 1/General Skills parte1/Rust fixme 2.md",
-    "Examen 1/General Skills parte1/Rust fixme 1.md",
-    "Examen 1/General Skills parte1/python wragling.md",
-    "Examen 1/General Skills parte1/HashingJobApp.md",
-    "Examen 1/General Skills parte1/FANTASY CTF.md",
     "Examen 1/General Skills parte1",
     "Examen 1/web parte",
     "Examen 1",
     "Actividad 13",
     "Actividad 12",
     "Tarea 2",
-    "Actividad 11",
-    "Actividad 10"
+    "Actividad 11"
   ]
 }
