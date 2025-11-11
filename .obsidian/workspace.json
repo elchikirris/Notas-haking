@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Actividad 18/b00tl3gRSA3.md",
+                "file": "Actividad 19/flags.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "b00tl3gRSA3"
+              "title": "flags"
             }
           }
         ]
@@ -171,10 +171,20 @@
   },
   "active": "79cac9ebfc4c4e0a",
   "lastOpenFiles": [
+    "Actividad 19/ReadMyCert.md",
+    "Actividad 19/flags.md",
+    "Actividad 19/HideToSee.md",
+    "Actividad 19/basic-mod1.md",
+    "Actividad 19/numeros.py",
+    "Actividad 19/Pixelated.md",
+    "Actividad 18/Mini RSA.md",
+    "Actividad 19/pixeleado.py",
+    "Actividad 19/scrambled1.png",
+    "Actividad 19/scrambled2.png",
     "Actividad 18/b00tl3gRSA2.md",
+    "Actividad 19",
     "Actividad 18/b00tl3gRSA3.md",
     "Actividad 18/Mind your Ps and Qs.md",
-    "Actividad 18/Mini RSA.md",
     "Actividad 17/rsa pop quiz (exp.py).md",
     "Actividad 18/Sin nombre",
     "Actividad 18",
@@ -196,16 +206,8 @@
     "Actividad 16/Easy 1.md",
     "Actividad 16/13.md",
     "Actividad 16/The numbers.md",
-    "Actividad 15/Operation Oni.md",
     "Actividad 16",
-    "Actividad 15/Operation Orchid.md",
-    "Actividad 15/Sleuthkit Apprentice.md",
-    "Actividad 15/Sleuthkit Intro.md",
-    "Actividad 15/Disk, disk, sleuth!.md",
     "Actividad 15",
-    "Actividad 14",
-    "Examen 1/General Skills parte1",
-    "Examen 1/web parte",
-    "Examen 1"
+    "Actividad 14"
   ]
 }
