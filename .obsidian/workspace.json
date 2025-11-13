@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tarea 4/Vigenere.md",
+                "file": "Actividad 20/vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vigenere"
+              "title": "vault-door-5"
             }
           }
         ]
@@ -171,8 +171,14 @@
   },
   "active": "79cac9ebfc4c4e0a",
   "lastOpenFiles": [
-    "Tarea 4/substitution2.md",
+    "Actividad 20/vault-door-4.md",
+    "Actividad 20/vault-door-5.md",
+    "Actividad 20/vault-door-3.md",
+    "Actividad 20/vault-door-1.md",
+    "Actividad 20/VAULT-DOOR-TRAINING.md",
     "Tarea 4/Vigenere.md",
+    "Actividad 20",
+    "Tarea 4/substitution2.md",
     "Tarea 4/substitution1.md",
     "Tarea 4/SUBSTITUTION0.md",
     "Tarea 4/rail-fence.md",
@@ -201,13 +207,7 @@
     "Tarea 3/Ph4nt0m 1ntrud3r.md",
     "Actividad 17",
     "Tarea 3/RED.md",
-    "Tarea 3/Secret of the Polyglot.md",
-    "Tarea 3/CanYouSee.md",
-    "Tarea 3/Scan Surprise.md",
-    "Tarea 3/hideme.md",
-    "Tarea 3/Redaction gone wrong.md",
     "Tarea 3",
-    "Actividad 16",
-    "Actividad 15"
+    "Actividad 16"
   ]
 }
